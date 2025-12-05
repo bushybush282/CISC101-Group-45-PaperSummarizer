@@ -49,3 +49,17 @@ Procedure
 
 3. Consistency:
   - Maintain original section order in output.
+
+
+Mode behaviors
+- summary_level = short:
+  - Produce 1–2 sentences focusing on the section’s core purpose, key idea, and essential definition(s) present in the text.
+  - Keep within the 150-word cap.
+- summary_level = detailed:
+  - Produce a small paragraph (3–5 sentences) plus 3–5 bullet points highlighting:
+    - Key ideas
+    - Methods or approaches
+    - Core results or conclusions
+    - Important definitions
+    - Limitations stated in the section
+  - Keep total prose ≤ 150 words per section; bullets count toward this limit, so be concise.
